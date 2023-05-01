@@ -2,6 +2,8 @@
 
 Este projeto tem como objetivo coletar informações do jogo Valorant para análise e visualização de dados.
 
+![image](https://user-images.githubusercontent.com/84351648/235402141-db27a978-d08a-4a7a-802c-4165e6ce8c47.png)
+
 ## Ferramentas utilizadas:
 - Google Colab: Ambiente de desenvolvimento utilizado para execução do código em Python.
 - Beautiful Soup: Biblioteca utilizada para extrair as informações dos sites relevantes.
